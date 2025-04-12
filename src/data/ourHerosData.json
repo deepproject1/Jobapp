@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Hired as Software Developer at TechSoft",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Joined as HR Executive at PeopleFirst",
+      "image": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Got placed as UI/UX Designer at CreativeSpark",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Selected for Backend Role at CodeNest",
+      "image": "https://randomuser.me/api/portraits/men/76.jpg"
+    }
+  ]
+  

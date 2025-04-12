@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/2721/2721299.png",
+      "location": "Bangalore, India",
+      "description": "Build responsive UIs using React and Tailwind CSS.",
+      "salary": "₹6 - ₹10 LPA",
+      "qualification": "B.Tech / B.E in Computer Science or related field",
+      "experience": "1-3 years",
+      "contact": "hr@company.com"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/2721/2721302.png",
+      "location": "Remote",
+      "description": "Develop scalable backend services using Node.js and MongoDB.",
+      "salary": "₹7 - ₹12 LPA",
+      "qualification": "Bachelor's in CS or equivalent",
+      "experience": "2-5 years",
+      "contact": "jobs@company.com"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/2721/2721308.png",
+      "location": "Hyderabad, India",
+      "description": "Handle both frontend and backend systems for our web apps.",
+      "salary": "₹8 - ₹15 LPA",
+      "qualification": "Any relevant degree with strong dev skills",
+      "experience": "3+ years",
+      "contact": "apply@startup.com"
+    }
+  ]
+  

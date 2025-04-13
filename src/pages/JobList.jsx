@@ -1,7 +1,15 @@
-import React from "react";
-import jobs from "../data/jobs.json";
+import React, { useEffect, useState } from "react";
 
 const JobList = () => {
+  const [jobs, setJobs] = useState([]);
+
+  useEffect(() => {
+    fetch("https://raw.githubusercontent.com/deepproject1/jobs-api/main/job.json")
+      .then((response) => response.json())
+      .then((data) => setJobs(data))
+      .catch((error) => console.error("Error fetching jobs:", error));
+  }, []);
+
   return (
     <section className="bg-gray-50 py-10 px-4">
       <div className="max-w-7xl mx-auto mt-16">

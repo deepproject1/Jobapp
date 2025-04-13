@@ -14,18 +14,14 @@ const Footer = () => {
     <footer className="bg-black text-white py-10">
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* Logo & Tagline */}
-        <div>
-          <div className="w-24 sm:w-28 md:w-32 lg:w-36 xl:w-40 mb-4">
-            <img
-              className="w-full h-auto object-contain"
-              src="https://i.ibb.co/q3Fz1DD6/logpro.png"
-              alt="Logo"
-            />
-          </div>
-          <p className="text-sm text-gray-300">
-            Your success is our mission. Start your career journey with confidence and our full support.
-          </p>
-        </div>
+        <a href="/" className="w-24 sm:w-28 md:w-32 lg:w-36 xl:w-40 block">
+  <img
+    className="w-full h-auto object-contain"
+    src="https://i.ibb.co/q3Fz1DD6/logpro.png"
+    alt="Logo"
+  />
+</a>
+
 
         {/* Quick Links */}
         <div>

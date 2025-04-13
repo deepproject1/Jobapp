@@ -18,12 +18,21 @@ const OurHeros = () => {
               key={hero.id}
               className="bg-white rounded-xl shadow p-5 flex flex-col items-center hover:shadow-lg transition"
             >
+              {/* Image */}
               <img
                 src={hero.image}
-                alt={hero.title}
+                alt={hero.name}
                 className="w-24 h-24 rounded-full object-cover border-4 border-blue-600 mb-4"
               />
-              <h3 className="text-lg font-medium text-gray-800">{hero.title}</h3>
+
+              {/* Name & Position */}
+              <h3 className="text-lg font-medium text-gray-800">{hero.name}</h3>
+              <p className="text-gray-500 text-sm">{hero.position}</p>
+
+              {/* Best Review */}
+              <p className="text-gray-600 mt-4 text-sm italic">
+                "{hero.review}"
+              </p>
             </div>
           ))}
         </div>
@@ -33,4 +42,3 @@ const OurHeros = () => {
 };
 
 export default OurHeros;
-

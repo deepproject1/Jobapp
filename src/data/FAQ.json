@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "question": "What services does your company provide?",
+      "answer": "We provide various services like job placement assistance, career counseling, resume building, and interview preparation. Our goal is to help you find your ideal job and succeed in your career."
+    },
+    {
+      "id": 2,
+      "question": "How can I apply for a job?",
+      "answer": "To apply for a job, simply visit our 'Jobs' section on the website, browse the available positions, and submit your resume and cover letter. You can also sign up for job alerts to stay updated."
+    },
+    {
+        "id": 3,
+        "question": "Do you charge any fees for your services?",
+        "answer": "Our main services free, such as job placement and career counseling, are offered to job seekers at no cost. However, we do offer optional premium services, such as advanced resume building or personalized interview coaching, which are available for a small fee. These premium services are designed to give you an added edge in your job search."
+      },
+    {
+      "id": 4,
+      "question": "How do I prepare for an interview?",
+      "answer": "We offer interview preparation services where we provide guidance on how to answer common questions, improve communication skills, and build confidence. Additionally, we conduct mock interviews to help you get ready."
+    }
+  ]
+  

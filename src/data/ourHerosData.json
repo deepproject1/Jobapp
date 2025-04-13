@@ -1,23 +1,44 @@
 [
-    {
-      "id": 1,
-      "title": "Hired as Software Developer at TechSoft",
-      "image": "https://randomuser.me/api/portraits/men/32.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Joined as HR Executive at PeopleFirst",
-      "image": "https://randomuser.me/api/portraits/women/45.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Got placed as UI/UX Designer at CreativeSpark",
-      "image": "https://randomuser.me/api/portraits/women/12.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Selected for Backend Role at CodeNest",
-      "image": "https://randomuser.me/api/portraits/men/76.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Amit Chakraborty",
+    "position": "Data Analyst",
+    "image": "https://i.ibb.co/9j4BWpS/logpro-1.png",
+    "review": "Joining this company was a turning point in my career. The process was smooth, and the team was incredibly helpful. Thanks to their expert guidance, I am now thriving in my role as a Data Analyst."
+  },
+  {
+    "id": 2,
+    "name": "Priya Saha",
+    "position": "Customer Service Executive",
+    "image": "https://i.ibb.co/9j4BWpS/logpro-1.png",
+    "review": "I can't thank the team enough for getting me placed as a Customer Service Executive. Their professional approach and constant support throughout the process made it easy for me to join this fantastic team. It’s been an amazing experience!"
+  },
+  {
+    "id": 3,
+    "name": "Sourav Dutta",
+    "position": "Data Annotation Specialist",
+    "image": "https://i.ibb.co/9j4BWpS/logpro-1.png",
+    "review": "The entire process of working with this team was wonderful. They understood my needs and connected me to the perfect role. Their expertise and support were exceptional throughout the journey. It truly made a difference!"
+  },
+  {
+    "id": 4,
+    "name": "Ritu Ghosh",
+    "position": "Back Office Operations",
+    "image": "https://i.ibb.co/9j4BWpS/logpro-1.png",
+    "review": "A big thank you to the team for helping me secure a role in Back Office Operations. The process was seamless, and I felt supported every step of the way. This company’s professionalism and attention to detail made all the difference."
+  },
+  {
+    "id": 5,
+    "name": "Sanjay Roy",
+    "position": "Data Analyst",
+    "image": "https://i.ibb.co/9j4BWpS/logpro-1.png",
+    "review": "The hiring process was efficient and easy to follow. Thanks to the team's constant support and guidance, I’m now working as a Data Analyst, and I couldn’t be happier with my new role! This company truly goes the extra mile."
+  },
+  {
+    "id": 6,
+    "name": "Madhuri Sen",
+    "position": "Customer Service Specialist",
+    "image": "https://i.ibb.co/9j4BWpS/logpro-1.png",
+    "review": "I’m so grateful for the opportunity provided by the team. Their guidance and support throughout the hiring process were outstanding, and I’m thriving in my position as a Customer Service Specialist. It was a great experience working with such a dedicated team."
+  }
+]

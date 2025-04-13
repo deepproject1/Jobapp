@@ -4,7 +4,7 @@ import jobs from "../data/jobs.json";
 const JobList = () => {
   return (
     <section className="bg-gray-50 py-10 px-4">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mx-auto mt-16">
         <h2 className="text-3xl font-bold text-blue-700 mb-8 text-center">Available Jobs</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {jobs.map((job) => (
@@ -26,7 +26,7 @@ const JobList = () => {
                 <li><strong>Experience:</strong> {job.experience}</li>
               </ul>
               <a
-                href={`mailto:${job.contact}`}
+                href="https://forms.gle/dCGaoJ1cEjeiEV3U6"
                 className="inline-block mt-auto text-sm bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 transition"
               >
                 Apply Now

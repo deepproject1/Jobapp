@@ -1,11 +1,13 @@
+import HighlightsBar from "../components/HighlightsBar";
 import Banner from "./Banner";
 import OurHeros from "./OurHeros";
 
 
 const Home = () => {
     return(
-        <div>
-             <Banner/>
+        <div >
+             <Banner />
+             <HighlightsBar />
              <OurHeros/>
              </div>
     )}

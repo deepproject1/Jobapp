@@ -24,7 +24,7 @@ const Navbar = () => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, [isOpen]);
 
-  const menuItems = ["Home", "Jobs", "Join Whats Up", "Services", "Contact Us"];
+  const menuItems = ["Home", "Jobs", "Join Whats Up", "Services", "Contact"];
 
   const getLink = (item) => {
     if (item === "Home") return "/";
@@ -34,8 +34,15 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md fixed w-full top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
-        {/* Logo */}
-        <div className="text-2xl font-bold text-blue-600">YourLogo</div>
+        {/* Navbar Logo */}
+<div className="w-24 sm:w-28 md:w-32 lg:w-36 xl:w-40">
+  <img
+    className="w-full h-auto object-contain"
+    src="https://i.ibb.co/q3Fz1DD6/logpro.png"
+    alt="Logo"
+  />
+</div>
+
 
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-6 items-center">
@@ -62,7 +69,10 @@ const Navbar = () => {
 
         {/* Mobile Hamburger */}
         <div className="md:hidden">
-          <button onClick={toggleMenu} className="text-gray-700 focus:outline-none">
+          <button
+            onClick={toggleMenu}
+            className="text-gray-700 focus:outline-none"
+          >
             {isOpen ? <FiX size={28} /> : <FiMenu size={28} />}
           </button>
         </div>

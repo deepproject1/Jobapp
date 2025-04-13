@@ -16,10 +16,10 @@ const Banner = () => {
             We believe in results. Our dedicated mentorship, hands-on training, and real-world projects prepare you for success — and we stand by it with a job guarantee.
           </p>
           <a
-            href="#contact-us"
+            href="https://www.whatsapp.com/channel/0029VbB9H1yKWEKul7W3e92I"
             className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition"
           >
-            Join Whatsapp Group
+            Join Whatsapp
           </a>
         </div>
 

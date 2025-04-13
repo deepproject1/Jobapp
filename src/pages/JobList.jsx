@@ -26,7 +26,7 @@ const JobList = () => {
                 <li><strong>Experience:</strong> {job.experience}</li>
               </ul>
               <a
-                href="https://forms.gle/dCGaoJ1cEjeiEV3U6"
+                href="https://forms.gle/NBtyjf26cyRAPfn27"
                 className="inline-block mt-auto text-sm bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 transition"
               >
                 Apply Now

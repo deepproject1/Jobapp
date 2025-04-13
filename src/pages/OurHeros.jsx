@@ -6,7 +6,7 @@ const OurHeros = () => {
     <section className="py-10 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-blue-700 mb-4">
-          Our Hired Employee 🚀
+        Testimonials🚀
         </h2>
         <p className="text-gray-600 mb-10 text-lg">
           Already Hired Through Our Support – Real Stories, Real People.

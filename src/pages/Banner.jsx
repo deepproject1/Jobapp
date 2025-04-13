@@ -15,12 +15,29 @@ const Banner = () => {
           <p className="text-gray-600 mb-6">
             We believe in results. Our dedicated mentorship, hands-on training, and real-world projects prepare you for success — and we stand by it with a job guarantee.
           </p>
-          <a
-            href="https://www.whatsapp.com/channel/0029VbB9H1yKWEKul7W3e92I"
-            className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition"
-          >
-            Join Whatsapp
-          </a>
+          <div className="flex flex-col sm:flex-row justify-center md:justify-start items-center gap-4">
+            <a
+              href="https://www.whatsapp.com/channel/0029VbB9H1yKWEKul7W3e92I"
+              className="flex items-center gap-2 bg-green-500 text-white px-6 py-3 rounded-full font-semibold hover:bg-green-600 transition"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+                alt="WhatsApp Logo"
+                className="w-5 h-5"
+              />
+              Join WhatsApp
+            </a>
+            <a
+              href="https://forms.gle/NBtyjf26cyRAPfn27"
+              className="bg-sky-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Apply Now
+            </a>
+          </div>
         </div>
 
         {/* Image */}

@@ -36,7 +36,7 @@ const Navbar = () => {
   const menuItems = [
     { name: "Home", type: "link" },
     { name: "Jobs", type: "link" },
-    { name: "Services", type: "link" },
+    // { name: "Services", type: "link" },
     {
       name: "Join Whats Up",
       type: "button",

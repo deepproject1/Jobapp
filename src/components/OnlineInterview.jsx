@@ -7,7 +7,7 @@ const OnlineInterview = () => {
         {/* Left Image */}
         <div className="md:w-1/2 w-full relative overflow-hidden rounded-lg shadow-md">
           <img
-            src="https://classroomclipart.com/image/static7/preview2/video-conference-with-six-diverse-participants-69393.jpg"
+            src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/71b54416-9f8f-443d-80c9-5cd8bd490fb9/4292928330/google-meet-grid-view-fix-oct-2021-screenshot.png"
             alt="Online Interview"
             className="w-full h-full object-cover transition-transform transform hover:scale-105"
           />
@@ -16,16 +16,16 @@ const OnlineInterview = () => {
         {/* Right Text */}
         <div className="md:w-1/2 w-full text-center md:text-left">
           <h2 className="text-2xl sm:text-3xl font-bold text-gray-800 mb-4">
-            100% Video Call Meeting
+            Video Call Interview with HR Team 💻
           </h2>
           <p className="text-gray-600 text-base sm:text-lg mb-6">
             Meet directly with our HR team for any query or doubts you may have regarding your career path.
           </p>
           <a
-            href="#"
+            href="https://forms.gle/NBtyjf26cyRAPfn27"
             className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full transition duration-300 transform hover:scale-105"
           >
-            Book Your Slot
+            Apply Now
           </a>
         </div>
       </div>

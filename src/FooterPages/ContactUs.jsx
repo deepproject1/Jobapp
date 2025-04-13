@@ -24,7 +24,7 @@ const ContactUs = () => {
             <FaMapMarkerAlt className="text-blue-700 text-xl mr-3 mt-1" />
             <div>
               <h2 className="font-semibold text-gray-800">Location</h2>
-              <p>ProPlacer HQ, India (Remote Support)</p>
+              <p>ProPlacer HQ,Bangalore India (Remote Support)</p>
             </div>
           </div>
 

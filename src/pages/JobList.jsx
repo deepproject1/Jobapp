@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { FaCheckCircle } from 'react-icons/fa';
 
 const JobList = () => {
   const [jobs, setJobs] = useState([]);
@@ -25,6 +26,11 @@ const JobList = () => {
                 alt={job.title}
                 className="w-16 h-16 mb-4"
               />
+              
+              <span className="bg-green-600 text-white text-sm font-medium px-2 py-1 rounded-sm flex w-20 items-center gap-1 shadow-sm">
+                      <FaCheckCircle className="text-white h-4 w-4" />
+                      Verified
+                    </span>
               <h3 className="text-xl font-semibold text-blue-800">{job.title}</h3>
               <p className="text-gray-600 font-semibold bg-amber-100">📌{job.location}</p>
               <p className="text-sm text-gray-700 mt-2 mb-2">{job.description}</p>

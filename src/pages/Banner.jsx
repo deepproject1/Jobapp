@@ -1,4 +1,5 @@
 import React from "react";
+import { FaCheckCircle } from 'react-icons/fa';
 
 const Banner = () => {
   return (
@@ -6,9 +7,17 @@ const Banner = () => {
       <div className="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center justify-between gap-10">
         {/* Text content */}
         <div className="text-center md:text-left flex-1">
-          <h1 className="text-4xl md:text-5xl font-extrabold text-blue-700 mb-4 leading-tight">
-            100% Job Guarantee Placement
-          </h1>
+           <h1 className="text-4xl md:text-5xl font-extrabold text-blue-700 mb-4 leading-tight flex items-center gap-3 flex-wrap">
+      100% Job Guarantee
+      <span className="bg-green-600 text-white text-sm font-medium px-2 py-1 rounded-sm flex items-center gap-1 shadow-sm">
+        <FaCheckCircle className="text-white h-4 w-4" />
+        Verified
+      </span>
+      <br />
+      <span className="text-xl text-black rounded-md p-1">
+        After Apply,you will get a job  intverview in 2 days.
+      </span>
+    </h1>
           <p className="text-gray-700 text-lg md:text-xl mb-6">
             With <strong>your hard work</strong> and <strong>our expert support</strong>, your career goals are within reach.
           </p>

@@ -38,7 +38,7 @@ const Navbar = () => {
     { name: "Jobs", type: "link" },
     // { name: "Services", type: "link" },
     {
-      name: "Join Whats Up",
+      name: "Join WhatsUp",
       type: "button",
       icon: <FaWhatsapp className="mr-2 text-xl" />,
       href: "https://whatsapp.com/channel/0029VbB9H1yKWEKul7W3e92I",
@@ -62,17 +62,15 @@ const Navbar = () => {
     <>
       {/* Fixed Navbar */}
       <nav className="bg-white shadow-md fixed top-0 left-0 right-0 w-full z-50">
-
         <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
           {/* Logo */}
-          <a href="/" className="w-24 sm:w-28 md:w-32 lg:w-36 xl:w-40 block">
-  <img
-    className="w-full h-auto object-contain"
-    src="https://i.ibb.co/q3Fz1DD6/logpro.png"
-    alt="Logo"
-  />
-</a>
-
+          <a href="/" className="w-24 sm:w-32 md:w-32 lg:w-36 xl:w-40 block">
+            <img
+              className="w-full h-auto object-contain"
+              src="https://i.ibb.co/q3Fz1DD6/logpro.png"
+              alt="Logo"
+            />
+          </a>
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-4 items-center">

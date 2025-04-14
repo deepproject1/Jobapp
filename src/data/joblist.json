@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "image": "https://cdn-icons-png.flaticon.com/512/9631/9631363.png",
+      "location": "Bangalore, India",
+      "description": "Build responsive UIs using React and Tailwind CSS.",
+      "salary": "₹6 - ₹10 LPA",
+      "qualification": "B.Tech / B.E in Computer Science or related field",
+      "experience": "1-3 years",
+      "contact": "https://forms.gle/dCGaoJ1cEjeiEV3U6"
+    },
+  {
+    "id": 2,
+    "title": "Customer Support Executive - BPO",
+    "image": "https://cdn-icons-png.freepik.com/512/2043/2043178.png",
+    "location": "Noida, Bhubaneswar, Kolkata, Mohali, Hyderabad, Lucknow, Chennai, Bengaluru",
+    "description": "Customer support for Amazon and Flipkart (WFH/WFO). Full-time role in BPO industry.",
+    "salary": "₹2.5 - ₹4 LPA (~₹30k/month)",
+    "qualification": "Graduation Not Required",
+    "experience": "0 - 5 years",
+    "contact": "https://forms.gle/dCGaoJ1cEjeiEV3U6"
+  },
+    {
+  "id": 3,
+  "title": "Customer Service Executive - WFO",
+  "image": "https://cdn-icons-png.freepik.com/512/2043/2043178.png",
+  "location": "Noida",
+  "description": "Freshers & Experienced both can apply! Earn up to ₹25,000 CTC. Easy Interview Process. Immediate Joining!\n\nAbout the Role:\nHandle & resolve customer queries over calls.\n- Male Candidates: Rotational 24*7 shifts.\n- Female Candidates: Day shift only.",
+  "salary": "Up to ₹25,000 CTC",
+  "qualification": "12th Pass / Graduate / Undergraduate - All can apply",
+  "experience": "0+ years (Freshers welcome)",
+  "contact": "https://forms.gle/dCGaoJ1cEjeiEV3U6",
+  "application_instructions": "1. Click the link to fill the form.\n2. Mention HR POOJA as the source.\n3. Provide details of three friends as references.\n4. A token number will be generated – share it with HR Twinkle.",
+  "interview_location": "iEnergizer, Gate No. 2, A-37, Sector 60, Noida"
+},
+{
+  "id": 4,
+  "title": "Customer Service Executive - WFO",
+  "image": "https://cdn-icons-png.freepik.com/512/2043/2043178.png",
+  "location": "Kolkata",
+  "description": "Handle customer queries via voice, email, or chat with professionalism and empathy. Provide accurate information and resolve customer issues in a timely manner. Maintain high levels of customer satisfaction through excellent service. Follow company protocols and procedures. Escalate complex issues to higher-level support if required.",
+  "salary": "Up to ₹2.5 LPA (Performance-based incentives)",
+  "qualification": "12th Pass or Graduate (any stream)",
+  "experience": "0 - 3 years (Freshers welcome)",
+  "contact": "https://forms.gle/dCGaoJ1cEjeiEV3U6",
+  "requirements": {
+    "communication": "Excellent verbal and written communication skills in English",
+    "shifts": "Willingness to work in rotational shifts, including night shifts",
+    "skills": "Good problem-solving and interpersonal skills"
+  },
+  "benefits": [
+    "Medical insurance",
+    "Paid training",
+    "Growth opportunities and career advancement",
+    "Vibrant and supportive work environment"
+  ]
+},{
+  "id": 5,
+  "title": "Customer Service Executive - WFO",
+  "image": "https://cdn-icons-png.freepik.com/512/2043/2043178.png",
+  "location": "Thane, Navi Mumbai, Mumbai (All Areas)",
+  "description": "Hiring for Customer Management Executives on a 3-month contract basis in the Logistics domain (UK region). Handle voice-based customer service for international clients. Work from Office with UK shifts and 2 rotational offs. Night shift readiness is mandatory.",
+  "salary": "Up to ₹32,000 CTC",
+  "qualification": "HSC with minimum 6 months of International BPO experience OR Graduate Fresher",
+  "experience": "0.5+ years (Freshers who are Graduates also eligible)",
+  "contact": "https://forms.gle/dCGaoJ1cEjeiEV3U6",
+  "shift": "UK Shifts with 2 rotational offs (Night shift readiness required)",
+  "job_type": "3-Month Contract",
+  "domain": "Logistics (International - UK Region)",
+  "interview_location": "Godrej & Boyce, Gate No 2, Plant 6, Lal Bahadur Shastri Marg, near R-City Mall, Vikhroli Bus Depot, Vikhroli West, Mumbai, Maharashtra 400079"
+}
+  ]
+  

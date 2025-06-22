@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Priya Saha",
+      "position": "Customer Service Executive",
+      "image": "https://www.rimweb.in/forums/uploads/monthly_2017_09/P.png.4105fd39c36b7675ba05ca802e7bbdec.png",
+      "review": "I can't thank the team enough for getting me placed as a Customer Service Executive. Their professional approach and constant support throughout the process made it easy for me to join this fantastic team. It’s been an amazing experience!"
+    },
+    {
+      "id": 2,
+      "name": "Ritu Ghosh",
+      "position": "Back Office Executive",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDNRFI1EBKZxSB6P4nSjbX5VlS9TRKEbI5S7wuUbuZ4pcc0QMP200r07yYnwtyL9MzNE&usqp=CAU",
+      "review": "A big thank you to the team for helping me secure a role in Back Office Operations. The process was seamless, and I felt supported every step of the way. This company’s professionalism and attention to detail made all the difference."
+    },
+    {
+      "id": 3,
+      "name": "Madhuri Sen",
+      "position": "Customer Service Specialist",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0ZttYUmzJM8RHYaB_cIV41eoeHFCFf_S8g&s",
+      "review": "I’m so grateful for the opportunity provided by the team. Their guidance and support throughout the hiring process were outstanding, and I’m thriving in my position as a Customer Service Specialist. It was a great experience working with such a dedicated team."
+    },
+    {
+      "id": 4,
+      "name": "Neha Das",
+      "position": "Data Entry Operator",
+      "image": "https://i.pinimg.com/736x/3f/85/c5/3f85c50d50d9cad724655322b0082290.jpg",
+      "review": "The team was incredibly helpful and professional. They made sure I was confident and well-prepared. I now work as a Data Entry Operator and I love the stability and growth it offers!"
+    },
+    {
+      "id": 5,
+      "name": "Rajiv Paul",
+      "position": "Customer Support Agent",
+      "image": "https://s3-alpha.figma.com/profile/93fdb0a6-ff91-4b11-984e-613bb26796bf",
+      "review": "Getting placed as a Customer Support Agent was a dream come true. The process was smooth, and the team guided me every step of the way. I’m thankful for this opportunity!"
+    },
+    {
+      "id": 6,
+      "name": "Ankita Roy",
+      "position": "Back Office Coordinator",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TmV7QUxZUCoH8CJ6c3d6HZMrLVgtn5UIHQ&s",
+      "review": "I'm truly thankful for the team who helped me land a job in Back Office. Their support, training, and follow-up gave me the confidence to succeed in this role."
+    },
+      {
+        "id": 7,
+        "name": "Amit Ghosh",
+        "position": "Customer Service Associate",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxaO59cuL6HqaVuuS6k9WvMc-1ukt9rz4fOIoNEbG3mHQtiMR7a5vI3q1IkGLO83RHsm0&usqp=CAU",
+        "review": "The support I received from the team was top-notch. They helped me prepare for interviews and build confidence. I’m now working as a Customer Service Associate and really enjoying my role."
+      },
+      {
+        "id": 8,
+        "name": "Tanmay Das",
+        "position": "Customer Support Representative",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3himi4wG9V9oI68stejtrilfPDMcVTVL6Os-SKiTm77sNb-E8YCsCvblE9YwEGdEInHM&usqp=CAU",
+        "review": "Thanks to the guidance and mentorship I received, I was able to secure a Customer Support role quickly. The experience has been amazing, and I feel proud to be part of a professional environment."
+      }
+  ]

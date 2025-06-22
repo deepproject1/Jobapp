@@ -23,9 +23,9 @@
     "react-icons": "^4.11.0",
     "react-router-dom": "^6.30.1",
     "react-toastify": "^9.1.3",
-    "sort-by": "^1.2.0",
+    "sort-by": "^0.0.2",
     "styled-components": "^6.1.0",
-    "sweetalert2": "^11.10.1",
+    "sweetalert2": "^11.6.13",
     "tailwindcss": "^4.1.3"
   },
   "devDependencies": {
@@ -36,7 +36,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
-    "sitemap-generator-cli": "^7.5.0",
+    "sitemap-generator-cli": "^6.2.6",
     "vite": "^6.2.6"
   }
 }
